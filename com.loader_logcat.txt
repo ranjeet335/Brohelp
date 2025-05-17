@@ -1,0 +1,470 @@
+--------- beginning of main
+05-17 10:10:13.761 16202 16202 D WM-PackageManagerHelper: Skipping component enablement for androidx.work.impl.background.systemjob.SystemJobService
+05-17 10:10:13.761 16202 16202 D WM-Schedulers: Created SystemJobScheduler and enabled SystemJobService
+05-17 10:10:13.790 16202 16227 D WM-ForceStopRunnable: The default process name was not specified.
+05-17 10:10:13.791 16202 16227 D WM-ForceStopRunnable: Performing cleanup operations.
+05-17 10:10:13.804 16226 16226 W libprocessgroup: Controller io is not found
+05-17 10:10:13.805 16226 16226 W libprocessgroup: Controller io is not found
+05-17 10:10:13.805 16226 16226 W libprocessgroup: Controller io is not found
+05-17 10:10:13.805 16226 16226 W libprocessgroup: JoinCgroup: controller schedtune is not found
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.806 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: BfqWeight
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqGroupIdle
+05-17 10:10:13.807 16226 16226 W libprocessgroup: SetAttribute: unknown attribute: CfqWeight
+05-17 10:10:13.809 16202 16202 D nativeloader: Load libSchedAssistJni.so using system ns (caller=/system/framework/oplus-framework.jar): ok
+05-17 10:10:13.809 16202 16202 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-17 10:10:13.811 16202 16202 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-17 10:10:13.811 16202 16202 E SchedAssist: sysOpen failed with error=Permission denied
+05-17 10:10:13.811 16202 16202 E SchedAssist: open sharedFd failed with error=Permission denied
+05-17 10:10:13.811 16202 16202 E SchedAssist: open sharedFd failed with error=Permission denied
+05-17 10:10:13.811 16202 16202 E SchedAssist: open sharedFd failed with error=No such file or directory
+05-17 10:10:13.814 16202 16202 D OplusGraphicsEvent: OplusGraphicsEventListener create now!
+05-17 10:10:13.815 16202 16202 D OplusGraphicsEvent: addEventListener success!
+05-17 10:10:13.818 16202 16202 D ScrollOptim [ConfigManager]: initOptConfig: pkg= com.loader, mOptEnable= true, mAnimAheadEnable= true, mInsertDefaultNum= 1, mFrameInsertEnableList= {}, mSCEnableList= []
+05-17 10:10:13.821 16202 16202 I M-ProMotion: M-ProMotion is disabled
+05-17 10:10:13.848 16230 16230 I libc    : SetHeapTaggingLevel: tag level set to 0
+05-17 10:10:13.854 16230 16230 I com.loader:gbox: Late-enabling -Xcheck:jni
+05-17 10:10:13.862 16202 16227 D WM-SystemJobScheduler: Reconciling jobs
+05-17 10:10:13.873 16202 16227 D CompatibilityChangeReporter: Compat change id reported: 160794467; UID 10441; state: DISABLED
+05-17 10:10:13.881 16230 16230 E com.loader:gbox: Unknown bits set in runtime_flags: 0x40000000
+05-17 10:10:13.881 16230 16230 I com.loader:gbox: Using CollectorTypeCMC GC.
+05-17 10:10:13.883 16202 16227 D WM-ForceStopRunnable: Application was force-stopped, rescheduling.
+05-17 10:10:13.898 16230 16230 D nativeloader: Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+05-17 10:10:13.912 16230 16230 W ziparchive: Unable to open '/system_ext/framework/mediatek-framework.dm': No such file or directory
+05-17 10:10:13.913 16230 16230 W ziparchive: Unable to open '/system_ext/framework/mediatek-framework.dm': No such file or directory
+05-17 10:10:13.918 16230 16230 D OplusActivityThreadExtImpl: java.lang.NoSuchMethodException: dalvik.system.VMRuntime.SupressionGC [int, int]
+05-17 10:10:13.919 16230 16230 I OneTrace: Mark active for pid=16230? true
+05-17 10:10:13.920 16230 16230 D cutils-dev: otrace_set_tracing_enabled? true tag:0
+05-17 10:10:13.920 16230 16234 D cutils-dev: properties changed in otrace_seq_number_changed!
+05-17 10:10:13.927 16202 16244 D WM-PackageManagerHelper: Skipping component enablement for androidx.work.impl.background.systemalarm.RescheduleReceiver
+05-17 10:10:13.944 16230 16230 D OplusActivityManager: get AMS extension: android.os.BinderProxy@7917eac
+05-17 10:10:13.946 16230 16242 D OplusAppHeapManager: java.lang.NoSuchMethodException: dalvik.system.VMRuntime.updateProcessValue [int, int, int]
+05-17 10:10:13.948 16230 16242 D CompatibilityInfo: setOverrideInvertedScale  1.0 to 1.0
+05-17 10:10:13.955 16230 16230 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-17 10:10:13.957 16230 16230 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10441; state: DISABLED
+05-17 10:10:13.961 16230 16230 D CompactWindowAppManager: initCompactApplicationInfo CompactMode: , NormalMode: 
+05-17 10:10:13.973 16230 16230 D OplusScrollToTopManager: setIsInWhiteList false
+05-17 10:10:13.977 16230 16230 D OplusViewDebugManager: OplusViewDebugManager Constructor android.view.debug.OplusViewDebugManager@594830a [mHasViewDebugProperty true] [mHasMsgDebugProperty false] [DEBUG false] [EXTRAINFOENABLE false] [LIGHT_OS true]
+05-17 10:10:13.981 16230 16230 D CompatibilityChangeReporter: Compat change id reported: 242716250; UID 10441; state: DISABLED
+05-17 10:10:14.000 16230 16230 W libc    : Access denied finding property "ro.odm.prev.product.name"
+05-17 10:10:14.001 16230 16230 W libc    : Access denied finding property "ro.vendor.oplus.gundam"
+05-17 10:10:14.009 16230 16230 D ApplicationLoaders: Returning zygote-cached class loader: /system/framework/android.test.base.jar
+05-17 10:10:14.010 16230 16230 W ziparchive: Unable to open '/data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/base.dm': No such file or directory
+05-17 10:10:14.010 16230 16230 W ziparchive: Unable to open '/data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/base.dm': No such file or directory
+05-17 10:10:14.237 16230 16230 D nativeloader: Configuring clns-4 for other apk /data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/base.apk. target_sdk_version=29, uses_libraries=, library_path=/data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/lib/arm64:/data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/base.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand:/data/user/0/com.loader
+05-17 10:10:14.237 16230 16230 D nativeloader: Extending system_exposed_libraries: libapuwareapusys.mtk.so:libapuwareapusys_v2.mtk.so:libapuwarexrp.mtk.so:libapuwarexrp_v2.mtk.so:libapuwareutils.mtk.so:libapuwareutils_v2.mtk.so:libapuwarehmp.mtk.so:libmcv_runtime_usdk.mtk.so:libneuron_graph_delegate.mtk.so:libneuronusdk_adapter.mtk.so:libtflite_mtk.mtk.so:libarmnn_ndk.mtk.so:libcmdl_ndk.mtk.so:libnir_neon_driver_ndk.mtk.so:libmvpu_runtime.mtk.so:libmvpu_runtime_pub.mtk.so:libmvpu_engine_pub.mtk.so:libmvpu_pattern_pub.mtk.so:libmvpuop_mtk_cv.mtk.so:libmvpuop_mtk_nn.mtk.so:libmvpu_runtime_25.mtk.so:libmvpu_runtime_25_pub.mtk.so:libmvpu_engine_25_pub.mtk.so:libmvpu_pattern_25_pub.mtk.so:libmvpuop25_mtk_cv.mtk.so:libmvpuop25_mtk_nn.mtk.so:libaol_jni.oplus.so:libSloganJni.oplus.so:libsuperNight.oplus.so:libAPSClient-cmd-jni-extension.oplus.so:libsatellite_audio_jni.oplus.so:libortc_so.oplus.so:libsoundtouch.oplus.so:libsoundtouch_jni.oplus.so
+05-17 10:10:14.255 16230 16230 D nativeloader: Load libframework-connectivity-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity.jar: ok
+05-17 10:10:14.265 16230 16230 V GraphicsEnvironment: Currently set values for:
+05-17 10:10:14.265 16230 16230 V GraphicsEnvironment:   angle_gl_driver_selection_pkgs=[]
+05-17 10:10:14.265 16230 16230 V GraphicsEnvironment:   angle_gl_driver_selection_values=[]
+05-17 10:10:14.266 16230 16230 V GraphicsEnvironment: ANGLE GameManagerService for com.loader: false
+05-17 10:10:14.267 16230 16230 V GraphicsEnvironment: com.loader is not listed in per-application setting
+05-17 10:10:14.267 16230 16230 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+05-17 10:10:14.392 16230 16230 D HookManager: hook: com.gbox.fake.service.IJobServiceProxy@3794822
+05-17 10:10:14.400 16230 16230 D HookManager: hook: com.gbox.fake.service.IAccountManagerProxy@778d1a5
+05-17 10:10:14.417 16230 16230 D HookManager: hook: com.gbox.fake.service.HCallbackProxy@2ff346
+05-17 10:10:14.424 16230 16230 D HookManager: hook: com.gbox.fake.delegate.AppInstrumentation@6893ea3
+05-17 10:10:14.426 16230 16230 D HookManager: hook: com.gbox.fake.service.IPowerManagerProxy@e9785a0
+05-17 10:10:14.433 16230 16230 D HookManager: hook: com.gbox.fake.service.ISystemUpdateProxy@efa6e15
+05-17 10:10:14.436 16230 16230 D HookManager: hook error: com.gbox.fake.service.ISystemUpdateProxy@efa6e15
+05-17 10:10:14.436 16230 16230 D HookManager: hook: com.gbox.fake.service.IContextHubServiceProxy@72c68b8
+05-17 10:10:14.439 16230 16230 D HookManager: hook error: com.gbox.fake.service.IContextHubServiceProxy@72c68b8
+05-17 10:10:14.440 16230 16230 D HookManager: hook: com.gbox.fake.service.IUserManagerProxy@82951f7
+05-17 10:10:14.449 16230 16230 D HookManager: hook: com.gbox.fake.service.ILocaleManagerProxy@7e796d0
+05-17 10:10:14.454 16230 16230 D HookManager: hook: com.gbox.fake.service.ITelephonyRegistryProxy@b140685
+05-17 10:10:14.461 16230 16230 D HookManager: hook: com.gbox.fake.service.context.RestrictionsManagerProxy@3ea8ca6
+05-17 10:10:14.467 16230 16230 D HookManager: hook: com.gbox.fake.service.IWifiManagerProxy@a82ca83
+05-17 10:10:14.482 16230 16230 D HookManager: hook: com.gbox.fake.service.IShortcutManagerProxy@52cb02c
+05-17 10:10:14.490 16230 16230 D HookManager: hook: com.gbox.fake.service.IAppOpsManagerProxy@a88f171
+05-17 10:10:14.500 16230 16230 D HookManager: hook: com.gbox.fake.service.IMediaRouterServiceProxy@106bd30
+05-17 10:10:14.504 16230 16230 D HookManager: hook: com.gbox.fake.service.context.ContentServiceProxy@cab2b65
+05-17 10:10:14.506 16230 16230 D HookManager: hook: com.gbox.fake.service.IVibratorServiceProxy@82d5606
+05-17 10:10:14.509 16230 16230 D HookManager: hook: com.gbox.fake.service.IStorageStatsManagerProxy@c6fc663
+05-17 10:10:14.511 16230 16230 D HookManager: hook: com.gbox.fake.service.IPermissionManagerProxy@95bb48c
+05-17 10:10:14.514 16230 16230 D HookManager: hook: com.gbox.fake.service.IAutofillManagerProxy@dfd4db7
+05-17 10:10:14.516 16230 16230 D HookManager: hook: com.gbox.fake.service.IFingerprintManagerProxy@2897e42
+05-17 10:10:14.518 16230 16230 D HookManager: hook: com.gbox.fake.service.ILocationManagerProxy@1723caf
+05-17 10:10:14.522 16230 16230 D HookManager: hook: com.gbox.fake.service.IActivityManagerProxy@60344a8
+05-17 10:10:14.533 16230 16230 D HookManager: hook: com.gbox.fake.service.IPersistentDataBlockServiceProxy@29b01f9
+05-17 10:10:14.534 16230 16230 D HookManager: hook error: com.gbox.fake.service.IPersistentDataBlockServiceProxy@29b01f9
+05-17 10:10:14.534 16230 16230 D HookManager: hook: com.gbox.fake.service.IAppWidgetManagerProxy@aa468ec
+05-17 10:10:14.537 16230 16230 D HookManager: hook: com.gbox.fake.service.IActivityClientProxy@4c5f731
+05-17 10:10:14.541 16230 16230 D HookManager: hook: com.gbox.fake.service.IMediaSessionManagerProxy@dd519f0
+05-17 10:10:14.543 16230 16230 D HookManager: hook: com.gbox.fake.service.IAccessibilityManagerProxy@8ad4525
+05-17 10:10:14.545 16230 16230 D HookManager: hook: com.gbox.fake.service.libcore.OsProxy@f23bbb4
+05-17 10:10:14.547 16230 16230 D HookManager: hook: com.gbox.fake.service.IPhoneSubInfoProxy@40e23
+05-17 10:10:14.548 16230 16230 D HookManager: hook: com.gbox.fake.service.IWifiScannerProxy@b5ada9e
+05-17 10:10:14.549 16230 16230 D HookManager: hook error: com.gbox.fake.service.IWifiScannerProxy@b5ada9e
+05-17 10:10:14.549 16230 16230 D HookManager: hook: com.gbox.fake.service.IDisplayManagerProxy@87f697f
+05-17 10:10:14.551 16230 16230 D HookManager: hook: com.gbox.fake.service.IPackageManagerProxy@4a99f76
+05-17 10:10:14.556 16230 16230 D HookManager: hook: com.gbox.fake.service.IVpnManagerProxy@aa8e4d
+05-17 10:10:14.559 16230 16230 D HookManager: hook: com.gbox.fake.service.IAlarmManagerProxy@bc1274e
+05-17 10:10:14.560 16230 16230 D HookManager: hook: com.gbox.fake.service.IActivityTaskManagerProxy@fcce48b
+05-17 10:10:14.563 16230 16230 D HookManager: hook: com.gbox.fake.service.IStorageManagerProxy@58deab2
+05-17 10:10:14.565 16230 16230 D HookManager: hook: com.gbox.fake.service.IConnectivityManagerProxy@a6f935f
+05-17 10:10:14.567 16230 16230 D HookManager: hook: com.gbox.fake.service.IDevicePolicyManagerProxy@f726c98
+05-17 10:10:14.573 16230 16230 D HookManager: hook: com.gbox.fake.service.INotificationManagerProxy@e11372d
+05-17 10:10:14.575 16230 16230 D HookManager: hook: com.gbox.fake.service.ILauncherAppsProxy@eae36b0
+05-17 10:10:14.577 16230 16230 D HookManager: hook: com.gbox.fake.service.ITelephonyManagerProxy@13f1ee5
+05-17 10:10:14.582 16230 16230 D HookManager: hook: com.gbox.fake.service.IWindowManagerProxy@f6a5b86
+05-17 10:10:14.585 16230 16230 D HookManager: hook: com.gbox.fake.service.IGraphicsStatsProxy@c2b9e99
+05-17 10:10:14.586 16230 16230 D HookManager: hook: com.gbox.fake.service.IDeviceIdentifiersPolicyProxy@c3b555e
+05-17 10:10:14.587 16230 16230 D HookManager: hook: com.gbox.fake.service.INetworkManagementServiceProxy@1ee5e5b
+--------- beginning of system
+05-17 10:10:14.588 16230 16230 I Quality : ActivityThread: makeApplication delay 318 com.loader 16230
+05-17 10:10:14.589 16230 16230 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-17 10:10:14.670 16230 16230 D Settings: loaded Package: com.pubg.imobile
+05-17 10:10:14.674 16230 16230 D BroadcastManager: register: com.pubg.imobile, size: 16
+05-17 10:10:14.697 16230 16230 D ActivityThread: Loading provider com.loader.SystemCallProvider: com.gbox.core.system.SystemCallProvider
+05-17 10:10:14.698 16230 16230 D SystemCallProvider: call: VM, Bundle[{_B_|_server_name_=package_manager}]
+05-17 10:10:14.698 16230 16230 D GBoxCore: getService: package_manager, com.gbox.core.system.pm.BPackageManagerService@102260f
+05-17 10:10:14.704 16230 16242 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+05-17 10:10:14.705 16202 16202 D GBoxCore: getService: activity_manager, android.os.BinderProxy@7ac952f
+05-17 10:10:14.707 16230 16241 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=76]
+05-17 10:10:14.707 16202 16202 D GBoxCore: getService: job_manager, android.os.BinderProxy@b4a073c
+05-17 10:10:14.708 16230 16246 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+05-17 10:10:14.709 16202 16202 D GBoxCore: getService: package_manager, android.os.BinderProxy@1218cc5
+05-17 10:10:14.709 16230 16241 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+05-17 10:10:14.710 16202 16202 D GBoxCore: getService: storage_manager, android.os.BinderProxy@98b261a
+05-17 10:10:14.711 16230 16241 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=80]
+05-17 10:10:14.712 16202 16202 D GBoxCore: getService: user_manager, android.os.BinderProxy@7f7554b
+05-17 10:10:14.712 16230 16241 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+05-17 10:10:14.713 16202 16202 D GBoxCore: getService: xposed_manager, android.os.BinderProxy@34e5b28
+05-17 10:10:14.713 16230 16241 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=84]
+05-17 10:10:14.714 16202 16202 D GBoxCore: getService: account_manager, android.os.BinderProxy@1133041
+05-17 10:10:14.715 16230 16246 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=88]
+05-17 10:10:14.716 16202 16202 D GBoxCore: getService: location_manager, android.os.BinderProxy@12589e6
+05-17 10:10:14.716 16230 16242 D SystemCallProvider: call: VM, Bundle[mParcelledData.dataSize=96]
+05-17 10:10:14.717 16202 16202 D GBoxCore: getService: notification_manager, android.os.BinderProxy@ae3fb27
+05-17 10:10:14.718 16202 16202 I Quality : ActivityThread: callApplicationOnCreate delay 893 com.loader 16202
+05-17 10:10:14.721 16202 16202 I Quality : ActivityThread: bindApplication delay 1257 com.loader 16202
+05-17 10:10:14.724 16202 16202 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-17 10:10:14.725 16202 16249 I Quality : Blocked msg = Package name: com.loader [ schedGroup: 5 schedPolicy: 0 ] process the message: { when=-1s259ms what=110 target=android.app.ActivityThread$H obj=AppBindData{appInfo=ApplicationInfo{c201d4 com.loader}} } took 1257 ms
+05-17 10:10:14.726 16202 16202 I OpenGLRenderer: SupportApps size 0
+05-17 10:10:14.733 16202 16202 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-17 10:10:14.734 16202 16254 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-17 10:10:14.735 16202 16254 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-17 10:10:14.746 16202 16256 D libMEOW : meow new tls: 0x74ec828900
+05-17 10:10:14.746 16202 16256 D libMEOW : meow reload base cfg path: na
+05-17 10:10:14.746 16202 16256 D libMEOW : meow reload overlay cfg path: na
+05-17 10:10:14.746 16202 16256 W QT      : qt_process_init() called
+05-17 10:10:14.746 16202 16256 E QT      : [QT]file does not exist
+05-17 10:10:14.746 16202 16256 W QT      : Support!!
+05-17 10:10:14.746 16202 16256 D libMEOW : applied 0 plugin for [com.loader].
+05-17 10:10:14.747 16202 16256 D libMEOW : meow delete tls: 0x74ec828900
+05-17 10:10:14.761 16202 16202 D nativeloader: Load /data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/lib/arm64/libLoader.so using ns clns-4 from class loader (caller=/data/app/~~ZQjj2XKQjqWC-VVP5R66mQ==/com.loader-mkyxgGYBuShwUBtbyalfLw==/base.apk): ok
+05-17 10:10:14.785 16202 16202 D AppCompatDelegate: Checking for metadata for AppLocalesMetadataHolderService : Service not found
+05-17 10:10:14.812 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: Unknow feature:IOplusTextViewRTLUtilForUG
+05-17 10:10:14.815 16202 16202 D nativeloader: Load liboplushwui_jni.so using system ns (caller=/system/framework/oplus-framework.jar): ok
+05-17 10:10:14.825 16202 16202 D OplusWindowManager: get WMS extension: android.os.BinderProxy@778d1a5
+05-17 10:10:14.862 16202 16202 E OplusCustomizeRestrictionManager: sInstance is null, start a new sInstance
+05-17 10:10:14.866 16202 16202 D CompatibilityChangeReporter: Compat change id reported: 210923482; UID 10441; state: DISABLED
+05-17 10:10:14.866 16202 16202 D CompatibilityChangeReporter: Compat change id reported: 37756858; UID 10441; state: ENABLED
+05-17 10:10:14.869 16202 16202 D OplusInputMethodUtil: init sDebug to false, init sDebugIme to false, init sAlwaysOn to false
+05-17 10:10:14.869 16202 16202 D OplusInputMethodUtil: updateDebugToClass InputMethodManager.DEBUG = false
+05-17 10:10:14.869 16202 16202 D OplusInputMethodUtil: updateDebugToClass ImeFocusController.DEBUG = false
+05-17 10:10:14.869 16202 16202 D OplusInputMethodUtil: updateDebugToClass BaseInputConnection.DEBUG = false
+05-17 10:10:14.881 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.881 16202 16202 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-17 10:10:14.888 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.888 16202 16202 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-17 10:10:14.893 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.894 16202 16202 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+05-17 10:10:14.921 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.921 16202 16202 V AutofillManager: notifyValueChanged(1073741825): ignoring on state UNKNOWN
+05-17 10:10:14.925 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.926 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:14.926 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.926 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:14.926 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.927 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:14.927 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:14.927 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:14.980 16202 16202 D ScrollOptimizationHelper: can't find the config file for optimizaiton
+05-17 10:10:14.980 16202 16202 D ScrollOptimizationHelper: will not debug for debug is false
+05-17 10:10:14.981 16202 16202 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10441; state: ENABLED
+05-17 10:10:14.981 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:14.981 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:14.982 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:14.991 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:14.991 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:14.991 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:15.007 16202 16202 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@9e89adf
+05-17 10:10:15.009 16202 16202 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-17 10:10:15.009 16202 16202 D ExtensionsLoader: Opened libguiextimpl.so
+05-17 10:10:15.009 16202 16202 D nativeloader: Load liboplusgui_jni.so using system ns (caller=/system/framework/oplus-framework.jar): ok
+05-17 10:10:15.015 16202 16202 D CompatibilityChangeReporter: Compat change id reported: 237531167; UID 10441; state: DISABLED
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [FRTCConfigManager]: initFrameRateConfig: 
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [FRTCConfigManager]: 	levels: [120, 60]
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [FRTCConfigManager]: 	thresholds: [200]
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [FRTCConfigManager]: 	scrollbar fade frame rate: 0
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [FRTCConfigManager]: FRTCConfigManager: FRTC_CAPABILITY = 120, package name = com.loader, WINDOW_ANIMATION_SPEED_RATE = 10, SCROLL_ANIMATION_SPEED_RATE = 20, MuitiWindowIdleFramerate = 60, PACKAGE_ENABLE = false
+05-17 10:10:15.019 16202 16202 I DynamicFramerate [DynamicFrameRateController]: init info: mPackageName = com.loader, mIsEnabled = false
+05-17 10:10:15.019 16202 16202 D WindowManager: Add to mViews: DecorView@eb4132c[MainActivity],pkg= com.loader
+05-17 10:10:15.021 16202 16202 W OpenGLRenderer: Unknown dataspace 0
+05-17 10:10:15.021 16202 16254 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-17 10:10:15.022 16202 16254 D ExtensionsLoader: Opened libhwuiextimpl.so
+05-17 10:10:15.023 16202 16202 D ExtensionsLoader: createInstance(64bit) : createExtendedFactory
+05-17 10:10:15.023 16202 16202 D ExtensionsLoader: Opened libSchedAssistExtImpl.so
+05-17 10:10:15.033 16202 16258 W LOTTIE  : Lottie doesn't support expressions.
+05-17 10:10:15.043 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@e53618
+05-17 10:10:15.044 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:15.066 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:15.066 16202 16202 V AutofillManager: notifyValueChanged(1073741824): ignoring on state UNKNOWN
+05-17 10:10:15.075 16202 16202 I Quality : ActivityThread: activityStart delay 351 com.loader 16202
+05-17 10:10:15.079 16202 16202 D ScrollOptim [SceneManager]: updateCurrentActivity: mCurrentActivityName=android.loader.activity.MainActivity, isOptEnable=true, isAnimAheadEnable=true, isFrameInsertEnable=true, InsertNum=1, isEnabledForScrollChanged=false
+05-17 10:10:15.079 16202 16202 D ActivityThread: ComponentInfo{com.loader/android.loader.activity.MainActivity} checkFinished=false 2
+05-17 10:10:15.079 16202 16202 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-17 10:10:15.086 16202 16202 D WindowManager: Add to mViews: DecorView@8a633cb[MainActivity],pkg= com.loader
+05-17 10:10:15.090 16202 16229 D nativeloader: Load libpowerhalwrap_jni.so using system ns (caller=/system_ext/framework/mediatek-framework.jar): ok
+05-17 10:10:15.091 16202 16229 I PowerHalWrapper: PowerHalWrapper.getInstance 
+05-17 10:10:15.092 16202 16227 D CompatibilityChangeReporter: Compat change id reported: 194532703; UID 10441; state: DISABLED
+05-17 10:10:15.092 16202 16227 D CompatibilityChangeReporter: Compat change id reported: 253665015; UID 10441; state: DISABLED
+05-17 10:10:15.093 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@caeda66
+05-17 10:10:15.093 16202 16227 D WM-SystemJobScheduler: Scheduling work ID 3b438efa-633e-423d-83e7-3e5190d12470Job ID 5
+05-17 10:10:15.094 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:15.095 16202 16202 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-17 10:10:15.096 16202 16202 D ResourcesManagerExtImpl: applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+05-17 10:10:15.099 16202 16202 I Choreographer: Skipped 76 frames!  The application may be doing too much work on its main thread.
+05-17 10:10:15.099 16202 16202 I Quality : Skipped: false 1 cost 19.453924 refreshRate 16666667 bit true processName com.loader
+05-17 10:10:15.101 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@e53618
+05-17 10:10:15.105 16202 16227 D WM-GreedyScheduler: Starting work for 3b438efa-633e-423d-83e7-3e5190d12470
+05-17 10:10:15.122 16202 16202 D BufferQueueConsumer: [](id:3f4a00000000,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:15.130 16202 16254 D libMEOW : meow new tls: 0x754cb512c0
+05-17 10:10:15.131 16202 16254 D libMEOW : applied 0 plugin for [com.loader].
+05-17 10:10:15.148 16202 16243 D WM-Processor: Processor: processing WorkGenerationalId(workSpecId=3b438efa-633e-423d-83e7-3e5190d12470, generation=0)
+05-17 10:10:15.155 16202 16243 D CompatibilityChangeReporter: Compat change id reported: 263076149; UID 10441; state: DISABLED
+05-17 10:10:15.158 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:15.159 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.loader/android.loader.activity.MainActivity)/@0x61233c0,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:15.163 16202 16254 D MAGT_SYNC_FRAME: MAGT Sync: MAGT is not supported. Disabling Sync.
+05-17 10:10:15.174 16202 16254 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#0](f:0,a:1) acquireNextBufferLocked size=812x390 mFrameNumber=1 applyTransaction=true mTimestamp=68881323608104(auto) mPendingTransactions.size=0 graphicBufferId=69587060129792 transform=0
+05-17 10:10:15.174 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:15.175 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:15.175 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:15.176 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:15.176 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@caeda66
+05-17 10:10:15.181 16202 16243 D WM-PackageManagerHelper: androidx.work.impl.background.systemalarm.RescheduleReceiver enabled
+05-17 10:10:15.184 16202 16222 I OpenGLRenderer: Davey! duration=1349ms; Flags=1, FrameTimelineVsyncId=33300893, IntendedVsync=68879974801670, Vsync=68881241468362, InputEventId=0, HandleInputStart=68881250217720, AnimationStart=68881250227874, PerformTraversalsStart=68881250485028, DrawStart=68881309314643, FrameDeadline=68879994801670, FrameInterval=68881248863874, FrameStartTime=16666667, SyncQueued=68881312838951, SyncStart=68881312955489, IssueDrawCommandsStart=68881313693643, SwapBuffers=68881322061720, FrameCompleted=68881324413720, DequeueBufferDuration=675693, QueueBufferDuration=640692, GpuCompleted=68881323987258, SwapBuffersCompleted=68881324413720, DisplayPresentTime=0, CommandSubmissionCompleted=68881322061720, 
+05-17 10:10:15.195 16202 16202 D ViewRootImplExtImpl: wrapConfigInfoIntoFlags rotation=0, smallestScreenWidthDp=360, relayoutAsync=false, newFlags=23592960, title=com.loader/android.loader.activity.MainActivity
+05-17 10:10:15.203 16202 16202 D VRI[MainActivity]: relayoutWindow result, sizeChanged:true, surfaceControlChanged:true, transformHintChanged:true, mSurfaceSize:Point(720, 1604), mLastSurfaceSize:Point(0, 0), mWidth:-1, mHeight:-1, requestedWidth:720, requestedHeight:1604, transformHint:0, lastTransformHint:-2147483648, installOrientation:0, displayRotation:0, isSurfaceValid:true, attr.flag:-2122252032, useBlast:true, tmpFrames:ClientWindowFrames{frame=[0,0][720,1604] display=[0,0][720,1604] parentFrame=[0,0][0,0]}, relayoutAsync:false, mSyncSeqId:0
+05-17 10:10:15.203 16202 16202 W VRI[MainActivity]: updateBlastSurfaceIfNeeded, surfaceSize:Point(720, 1604), lastSurfaceSize:Point(0, 0), format:-1, blastBufferQueue:null
+05-17 10:10:15.204 16202 16202 D BufferQueueConsumer: [](id:3f4a00000001,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:15.208 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+05-17 10:10:15.210 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741825
+05-17 10:10:15.210 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:15.211 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741826
+05-17 10:10:15.217 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.loader/android.loader.activity.MainActivity)/@0x37173ab,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:15.241 16202 16254 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#1](f:0,a:1) acquireNextBufferLocked size=720x1604 mFrameNumber=1 applyTransaction=true mTimestamp=68881391255258(auto) mPendingTransactions.size=0 graphicBufferId=69587060129805 transform=0
+05-17 10:10:15.242 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:15.242 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:15.242 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:15.243 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:15.243 16202 16202 D VRI[MainActivity]: onFocusEvent true
+05-17 10:10:15.253 16202 16214 I OpenGLRenderer: Davey! duration=1418ms; Flags=1, FrameTimelineVsyncId=33300893, IntendedVsync=68879974801670, Vsync=68881241468362, InputEventId=0, HandleInputStart=68881250217720, AnimationStart=68881250227874, PerformTraversalsStart=68881250485028, DrawStart=68881367648489, FrameDeadline=68879994801670, FrameInterval=68881248863874, FrameStartTime=16666667, SyncQueued=68881375418643, SyncStart=68881375545412, IssueDrawCommandsStart=68881375724720, SwapBuffers=68881390798028, FrameCompleted=68881393204489, DequeueBufferDuration=19462, QueueBufferDuration=390692, GpuCompleted=68881393204489, SwapBuffersCompleted=68881391778566, DisplayPresentTime=0, CommandSubmissionCompleted=68881390798028, 
+05-17 10:10:15.261 16202 16202 I Quality : Skipped: false 7 cost 119.01993 refreshRate 16678863 bit true processName com.loader
+05-17 10:10:15.273 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=true syncBuffer=false
+05-17 10:10:15.273 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:15.273 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:15.279 16202 16202 D WM-WorkerWrapper: Starting work for android.loader.app.DownloadWorker
+05-17 10:10:15.282 16202 16202 D WM-SystemJobService: onStartJob for WorkGenerationalId(workSpecId=3b438efa-633e-423d-83e7-3e5190d12470, generation=0)
+05-17 10:10:15.294 16202 16227 D WM-Processor: Work WorkGenerationalId(workSpecId=3b438efa-633e-423d-83e7-3e5190d12470, generation=0) is already enqueued for processing
+05-17 10:10:16.000 16202 16208 I com.loader: Compiler allocated 6482KB to compile void android.view.ViewRootImpl.performTraversals()
+05-17 10:10:16.282 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@eb4132c[MainActivity] change focus to true
+05-17 10:10:17.201 16202 16244 I WM-WorkerWrapper: Worker result SUCCESS for Work [ id=3b438efa-633e-423d-83e7-3e5190d12470, tags={ android.loader.app.DownloadWorker } ]
+05-17 10:10:17.203 16202 16202 D WM-Processor: Processor 3b438efa-633e-423d-83e7-3e5190d12470 executed; reschedule = false
+05-17 10:10:17.203 16202 16202 D WM-SystemJobService: 3b438efa-633e-423d-83e7-3e5190d12470 executed on JobScheduler
+05-17 10:10:17.208 16202 16244 D WM-GreedyScheduler: Cancelling work ID 3b438efa-633e-423d-83e7-3e5190d12470
+05-17 10:10:17.217 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,window dying
+05-17 10:10:17.217 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,unregisterSystemUIBroadcastReceiver 
+05-17 10:10:17.217 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@14078ba
+05-17 10:10:17.217 16202 16202 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@7810654
+05-17 10:10:17.220 16202 16202 D OpenGLRenderer: RenderProxy::destroy: this=0x74ec864e00, mContext=0x754cb0d300
+05-17 10:10:17.220 16202 16254 D OpenGLRenderer: SkiaOpenGLPipeline::setSurface: this=0x754cab6900, surface=NULL
+05-17 10:10:17.221 16202 16202 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#0](f:0,a:4) destructor()
+05-17 10:10:17.221 16202 16202 D BufferQueueConsumer: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#0(BLAST Consumer)0](id:3f4a00000000,api:0,p:-1,c:16202) disconnect
+05-17 10:10:17.223 16202 16239 D WM-PackageManagerHelper: androidx.work.impl.background.systemalarm.RescheduleReceiver disabled
+05-17 10:10:17.242 16202 16202 D CompatibilityChangeReporter: Compat change id reported: 147798919; UID 10441; state: DISABLED
+05-17 10:10:17.254 16202 16202 I Quality : Skipped: true 1 cost 26.606056 refreshRate 16680698 bit true processName com.loader
+05-17 10:10:17.258 16202 16202 D WindowManager: Add to mViews: com.oplus.internal.widget.OplusToastLayout{b3bf74 V.E...... ......I. 0,0-0,0 #c020084 oplus:id/oplus_toast_layout alpha=1.0 viewInfo = },pkg= com.loader
+05-17 10:10:17.266 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@257b4e3
+05-17 10:10:17.267 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:17.269 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@257b4e3
+05-17 10:10:17.280 16202 16202 D BufferQueueConsumer: [](id:3f4a00000002,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:17.282 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:17.284 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=Toast)/@0xab4c05e,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:17.300 16202 16254 D BLASTBufferQueue: [VRI[Toast][Toast]#2](f:0,a:1) acquireNextBufferLocked size=387x174 mFrameNumber=1 applyTransaction=true mTimestamp=68883450379258(auto) mPendingTransactions.size=0 graphicBufferId=69587060129807 transform=0
+05-17 10:10:17.301 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:17.301 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:17.301 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:17.301 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:17.302 16202 16202 D VRI[MainActivity]: onFocusEvent true
+05-17 10:10:17.303 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=false syncBuffer=false
+05-17 10:10:17.304 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:17.304 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:17.909 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:17.989 16202 16202 D OplusInputMethodManagerInternal: get inputMethodManager extension: com.android.internal.view.IInputMethodManager$Stub$Proxy@d1136c2
+05-17 10:10:17.990 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:18.306 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@8a633cb[MainActivity] change focus to true
+05-17 10:10:18.432 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:18.507 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:18.700 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:18.791 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:19.003 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:19.091 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:19.091 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:19.092 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:19.092 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:19.110 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.110 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.110 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.114 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.114 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.114 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:19.125 16202 16202 D WindowManager: Add to mViews: DecorView@e4960c3[MainActivity],pkg= com.loader
+05-17 10:10:19.134 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@32bc5be
+05-17 10:10:19.136 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:19.137 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741826
+05-17 10:10:19.137 16202 16202 I Quality : Skipped: false 2 cost 41.72505 refreshRate 16681245 bit true processName com.loader
+05-17 10:10:19.139 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@32bc5be
+05-17 10:10:19.150 16202 16202 D BufferQueueConsumer: [](id:3f4a00000003,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:19.152 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:19.153 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.loader/android.loader.activity.MainActivity)/@0x7f47f35,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:19.158 16202 16254 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#3](f:0,a:1) acquireNextBufferLocked size=812x390 mFrameNumber=1 applyTransaction=true mTimestamp=68885308283874(auto) mPendingTransactions.size=0 graphicBufferId=69587060129814 transform=0
+05-17 10:10:19.159 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:19.159 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:19.159 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:19.159 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:19.166 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=true syncBuffer=false
+05-17 10:10:19.167 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:19.167 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:19.170 16202 16202 D VRI[MainActivity]: onFocusEvent false
+05-17 10:10:19.224 16202 16202 D VRI[MainActivity]: onFocusEvent true
+05-17 10:10:19.256 16202 16202 D OplusScrollToTopManager: Toast,window dying
+05-17 10:10:19.256 16202 16202 D OplusScrollToTopManager: Toast,unregisterSystemUIBroadcastReceiver 
+05-17 10:10:19.256 16202 16202 D OplusScrollToTopManager: Toast, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@a325fed
+05-17 10:10:19.256 16202 16202 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@3075ee0
+05-17 10:10:19.258 16202 16202 D OpenGLRenderer: RenderProxy::destroy: this=0x754cb07800, mContext=0x74c70f4780
+05-17 10:10:19.258 16202 16254 D OpenGLRenderer: SkiaOpenGLPipeline::setSurface: this=0x758250dc00, surface=NULL
+05-17 10:10:19.259 16202 16202 D BLASTBufferQueue: [VRI[Toast][Toast]#2](f:0,a:1) destructor()
+05-17 10:10:19.259 16202 16202 D BufferQueueConsumer: [VRI[Toast][Toast]#2(BLAST Consumer)2](id:3f4a00000002,api:0,p:-1,c:16202) disconnect
+05-17 10:10:19.277 16202 16202 D WindowManager: Add to mViews: com.oplus.internal.widget.OplusToastLayout{efb3e22 V.E...... ......I. 0,0-0,0 #c020084 oplus:id/oplus_toast_layout alpha=1.0 viewInfo = },pkg= com.loader
+05-17 10:10:19.286 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@6e20de9
+05-17 10:10:19.288 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:19.290 16202 16202 I Quality : Skipped: false 1 cost 27.830336 refreshRate 16673810 bit true processName com.loader
+05-17 10:10:19.292 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@6e20de9
+05-17 10:10:19.304 16202 16202 D BufferQueueConsumer: [](id:3f4a00000004,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:19.306 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:19.307 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=Toast)/@0x1d4199c,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:19.311 16202 16254 D BLASTBufferQueue: [VRI[Toast][Toast]#4](f:0,a:1) acquireNextBufferLocked size=390x174 mFrameNumber=1 applyTransaction=true mTimestamp=68885460774259(auto) mPendingTransactions.size=0 graphicBufferId=69587060129820 transform=0
+05-17 10:10:19.311 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:19.311 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:19.311 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:19.312 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:19.317 16202 16202 I Quality : Skipped: false 1 cost 21.572552 refreshRate 16671581 bit true processName com.loader
+05-17 10:10:19.338 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=true syncBuffer=false
+05-17 10:10:19.339 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:19.339 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:20.176 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@8a633cb[MainActivity] change focus to false
+05-17 10:10:20.225 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@e4960c3[MainActivity] change focus to true
+05-17 10:10:20.698 16202 16345 D ProfileInstaller: Skipping profile installation for com.loader
+05-17 10:10:20.729 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,window dying
+05-17 10:10:20.729 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,unregisterSystemUIBroadcastReceiver 
+05-17 10:10:20.729 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@dd373d2
+05-17 10:10:20.730 16202 16202 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@ed7461f
+05-17 10:10:20.732 16202 16202 D OpenGLRenderer: RenderProxy::destroy: this=0x74ebc30300, mContext=0x74c71a8ec0
+05-17 10:10:20.732 16202 16254 D OpenGLRenderer: SkiaOpenGLPipeline::setSurface: this=0x758250dac0, surface=NULL
+05-17 10:10:20.740 16202 16215 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#3](f:0,a:4) destructor()
+05-17 10:10:20.740 16202 16215 D BufferQueueConsumer: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#3(BLAST Consumer)3](id:3f4a00000003,api:0,p:-1,c:16202) disconnect
+05-17 10:10:20.780 16202 16202 I Quality : Skipped: true 3 cost 50.55808 refreshRate 16665469 bit true processName com.loader
+05-17 10:10:20.811 16202 16202 D VRI[MainActivity]: onFocusEvent true
+05-17 10:10:21.659 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:21.758 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:21.758 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:21.759 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:21.759 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:21.763 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741826
+05-17 10:10:21.814 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@8a633cb[MainActivity] change focus to true
+05-17 10:10:22.759 16202 16202 D OplusScrollToTopManager: Toast,window dying
+05-17 10:10:22.759 16202 16202 D OplusScrollToTopManager: Toast,unregisterSystemUIBroadcastReceiver 
+05-17 10:10:22.760 16202 16202 D OplusScrollToTopManager: Toast, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@41d4359
+05-17 10:10:22.760 16202 16202 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@9b31a6e
+05-17 10:10:22.762 16202 16202 D OpenGLRenderer: RenderProxy::destroy: this=0x754cb07e00, mContext=0x74c102aac0
+05-17 10:10:22.762 16202 16254 D OpenGLRenderer: SkiaOpenGLPipeline::setSurface: this=0x754cab8e80, surface=NULL
+05-17 10:10:22.764 16202 16202 D BLASTBufferQueue: [VRI[Toast][Toast]#4](f:0,a:2) destructor()
+05-17 10:10:22.765 16202 16202 D BufferQueueConsumer: [VRI[Toast][Toast]#4(BLAST Consumer)4](id:3f4a00000004,api:0,p:-1,c:16202) disconnect
+05-17 10:10:22.794 16202 16202 D WindowManager: Add to mViews: com.oplus.internal.widget.OplusToastLayout{ad0fb1e V.E...... ......I. 0,0-0,0 #c020084 oplus:id/oplus_toast_layout alpha=1.0 viewInfo = },pkg= com.loader
+05-17 10:10:22.810 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@2d5bc15
+05-17 10:10:22.813 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:22.815 16202 16202 I Quality : Skipped: false 2 cost 49.847057 refreshRate 16678949 bit true processName com.loader
+05-17 10:10:22.816 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@2d5bc15
+05-17 10:10:22.834 16202 16202 D BufferQueueConsumer: [](id:3f4a00000005,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:22.839 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:22.841 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=Toast)/@0x4828eb8,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:22.846 16202 16254 D BLASTBufferQueue: [VRI[Toast][Toast]#5](f:0,a:1) acquireNextBufferLocked size=390x174 mFrameNumber=1 applyTransaction=true mTimestamp=68888995908105(auto) mPendingTransactions.size=0 graphicBufferId=69587060129827 transform=0
+05-17 10:10:22.847 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:22.847 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:22.847 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:22.848 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:22.848 16202 16202 I Quality : Skipped: false 1 cost 16.802616 refreshRate 16679413 bit true processName com.loader
+05-17 10:10:22.850 16202 16254 D VRI[Toast]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=false syncBuffer=false
+05-17 10:10:22.850 16202 16202 D VRI[Toast]: draw finished. seqId=0
+05-17 10:10:22.850 16202 16202 D VRI[Toast]: reportDrawFinished
+05-17 10:10:23.176 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:23.275 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:23.488 16202 16202 V AutofillManager: requestHideFillUi(null): anchor = null
+05-17 10:10:23.570 16202 16202 D ViewRootImplExtImpl: the up motion event handled by client, just return
+05-17 10:10:23.570 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:23.571 16202 16202 V TextView: notifyAutoFillManagerAfterTextChanged
+05-17 10:10:23.571 16202 16202 V AutofillManager: notifyValueChanged(1073741826): ignoring on state UNKNOWN
+05-17 10:10:23.583 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.583 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.583 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.586 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.586 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.586 16202 16202 I oplus.android.OplusFrameworkFactoryImpl: get feature:IOplusDynamicVsyncFeature
+05-17 10:10:23.597 16202 16202 D WindowManager: Add to mViews: DecorView@ce104e7[MainActivity],pkg= com.loader
+05-17 10:10:23.608 16202 16202 D ViewRootImplExtImpl: onDisplayChanged -1 for VRI android.view.ViewRootImpl@6814332
+05-17 10:10:23.609 16202 16202 D InputEventReceiver: Input log is disabled in InputEventReceiver.
+05-17 10:10:23.610 16202 16202 D AutofillManager: notifyViewEnteredForFillDialog:1073741826
+05-17 10:10:23.610 16202 16202 I Quality : Skipped: false 1 cost 28.372849 refreshRate 16666667 bit true processName com.loader
+05-17 10:10:23.612 16202 16202 E OplusBracketLog: [OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@6814332
+05-17 10:10:23.623 16202 16202 D BufferQueueConsumer: [](id:3f4a00000006,api:0,p:-1,c:16202) connect: controlledByApp=false
+05-17 10:10:23.626 16202 16254 E OpenGLRenderer: Unable to match the desired swap behavior.
+05-17 10:10:23.627 16202 16202 I SurfaceControl:  setExtendedRangeBrightness sc=Surface(name=com.loader/android.loader.activity.MainActivity)/@0xd2b6239,currentBufferRatio=1.0,desiredRatio=1.0
+05-17 10:10:23.632 16202 16254 D BLASTBufferQueue: [VRI[MainActivity][com.loader/android.loader.activity.MainActivity]#6](f:0,a:1) acquireNextBufferLocked size=812x390 mFrameNumber=1 applyTransaction=true mTimestamp=68889782320490(auto) mPendingTransactions.size=0 graphicBufferId=69587060129835 transform=0
+05-17 10:10:23.633 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+05-17 10:10:23.633 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:23.633 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:23.633 16202 16202 D ViewRootImplExtImpl: setMaxDequeuedBufferCount: 2
+05-17 10:10:23.635 16202 16202 I Quality : Skipped: false 1 cost 19.37582 refreshRate 16666667 bit true processName com.loader
+05-17 10:10:23.655 16202 16254 D VRI[MainActivity]: Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=true syncBuffer=false
+05-17 10:10:23.655 16202 16202 D VRI[MainActivity]: draw finished. seqId=0
+05-17 10:10:23.655 16202 16202 D VRI[MainActivity]: reportDrawFinished
+05-17 10:10:23.657 16202 16202 D VRI[MainActivity]: onFocusEvent false
+05-17 10:10:23.690 16202 16202 D VRI[MainActivity]: onFocusEvent true
+05-17 10:10:24.248 16202 16202 D Dialog  : dispatchKeyEvent to android.app.AlertDialog@c7a1f71 will call onBackPressed
+05-17 10:10:24.248 16202 16202 D Dialog  : dispatchKeyEvent onBackPressed, cancelable=false
+05-17 10:10:24.660 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@8a633cb[MainActivity] change focus to false
+05-17 10:10:24.691 16202 16202 D callGcSupression: java.lang.NullPointerException: Attempt to invoke virtual method 'java.lang.Object java.lang.reflect.Method.invoke(java.lang.Object, java.lang.Object[])' on a null object reference
+05-17 10:10:24.694 16202 16259 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,This DecorView@ce104e7[MainActivity] change focus to true
+05-17 10:10:24.882 16202 16202 D VRI[MainActivity]: onFocusEvent false
+05-17 10:10:25.087 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,window dying
+05-17 10:10:25.087 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity,unregisterSystemUIBroadcastReceiver 
+05-17 10:10:25.087 16202 16202 D OplusScrollToTopManager: com.loader/android.loader.activity.MainActivity, unregisterSystemUIBroadcastReceiver failed java.lang.IllegalArgumentException: Receiver not registered: android.view.OplusScrollToTopManager$2@7fa0156
+05-17 10:10:25.088 16202 16202 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@22f0883
+05-17 10:10:25.089 16202 16202 D OpenGLRenderer: R
